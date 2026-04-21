@@ -20,4 +20,17 @@ En este portafolio, busco dar a conocerme en el campo laboral y mostrar mis habi
 2. Una vez clonado el repositorio, puedes abrir el archivo `index.html` con tu navegador de preferencia
 
 ### Previsualización sin instalar
-<a style="color: green;" href="https://rytr01.github.io/">Ver portafolio en vivo!</a>
+<a style="color: green;" href="https://rytr01.github.io/" target="_blank">Ver portafolio en vivo!</a>
+
+## Estructura de proyecto
+```
+├── index.hmtl
+├── source/
+│   ├── images/
+│   ├── css/
+└── README.md
+```
+
+## Lincencia
+
+Licencia MIT
